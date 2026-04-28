@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agro Project
 
 This project is organized into separate frontend and backend folders.
@@ -43,3 +44,6 @@ The application will be available at the URL provided by Vite (usually [http://l
 
 - **Frontend**: Contains all UI components, pages, and styles.
 - **Backend**: Contains API routes, database models, and server logic.
+=======
+# Smart-Agro
+>>>>>>> db661ef6370b10c90908afbd222a8ea53c7e0d32
