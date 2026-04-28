@@ -1,7 +1,7 @@
-🌾 Smart Agro: Disease & Fertilizer Recommendation System
+* Smart Agro: Disease & Fertilizer Recommendation System
 Smart Agro is a full-stack AI-driven platform designed to help farmers identify crop diseases and get precise fertilizer recommendations. By leveraging the Gemini API and the MERN stack, the system provides real-time analysis and multi-language support to bridge the gap between technology and traditional farming.
 
-🚀 Key Features
+* Key Features
 AI Disease Detection: Upload images of infected crops to receive instant diagnosis via Gemini AI.
 
 Smart Fertilizer Recommendations: Get tailored suggestions based on crop type and soil conditions.
@@ -14,7 +14,7 @@ Market Insights: Real-time information on market trends and crop prices.
 
 Admin Dashboard: Comprehensive management system for users and agricultural data.
 
-🛠️ Tech Stack
+* Tech Stack
 Frontend: React.js, TypeScript, Vite, Tailwind CSS
 
 Backend: Node.js, Express.js
@@ -25,7 +25,7 @@ AI Engine: Google Gemini API
 
 Other Tools: i18next (Internationalization), Axios, Lucide React (Icons)
 
-📦 Installation & Setup
+* Installation & Setup
 Clone the repository:
 
 Bash
