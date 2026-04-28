@@ -1,0 +1,183 @@
+{
+  "nav": {
+    "home": "Home",
+    "detect": "Detect Disease",
+    "fertilizer": "Search Fertilizers",
+    "dashboard": "Dashboard",
+    "weather": "Weather",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "addPhoto": "Add Profile Photo",
+    "market": "Market",
+    "history": "Analysis History"
+  },
+  "home": {
+    "title": "Smart Agro Disease & Fertilizer Recommendation System",
+    "subtitle": "Empowering farmers with AI-driven crop disease detection and precise fertilizer recommendations.",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "featuresTitle": "Our Core Features",
+    "features": {
+      "detect": {
+        "title": "AI Disease Detection",
+        "desc": "AI-based Plant Disease Detection for instant identification."
+      },
+      "fertilizer": {
+        "title": "Smart Fertilizer Guide",
+        "desc": "Smart Fertilizer Recommendations tailored to your crop."
+      },
+      "weather": {
+        "title": "Weather Updates",
+        "desc": "Real-time Weather Updates for better planning."
+      },
+      "market": {
+        "title": "Market Tracking",
+        "desc": "Live Market Price Tracking for various crops."
+      },
+      "multi": {
+        "title": "Multilingual Support",
+        "desc": "Support for English, Hindi, and Marathi languages."
+      },
+      "dashboard": {
+        "title": "Farmer Dashboard",
+        "desc": "Farmer-friendly Dashboard for tracking history."
+      }
+    },
+    "benefitsTitle": "Farmer Benefits",
+    "benefits": {
+      "cropLoss": "Reduces crop loss",
+      "rightFertilizer": "Provides the right fertilizer recommendations",
+      "savesTime": "Saves time",
+      "easyToUse": "Easy to use"
+    }
+  },
+  "detect": {
+    "title": "Detect Crop Disease",
+    "subtitle": "Upload a clear image of the affected plant leaf for AI analysis.",
+    "upload": "Drag & drop an image here, or click to select",
+    "analyzing": "Analyzing Image...",
+    "analyzeBtn": "Analyze Image",
+    "loginRequired": "Please login to use the detection feature.",
+    "error": "Error analyzing image. Please try again.",
+    "imageOnly": "Please upload an image file",
+    "fileTypes": "PNG, JPG, JPEG up to 10MB",
+    "selectFile": "Select File",
+    "analyzeAnother": "Analyze Another Image",
+    "result": {
+      "title": "Analysis Result",
+      "disease": "Disease",
+      "description": "Description",
+      "fertilizer": "Recommended Fertilizer",
+      "prevention": "Prevention Tips",
+      "healthyMsg": "Your plant looks great!",
+      "diseaseMsg": "Disease detected. Action required."
+    }
+  },
+  "fertilizer": {
+    "title": "Search Fertilizers",
+    "subtitle": "Search for any fertilizer to get comprehensive information directly from Google.",
+    "searchPlaceholder": "Enter fertilizer name (e.g. Urea, DAP)...",
+    "searchBtn": "Search on Google",
+    "emptyWarning": "Please enter a fertilizer name to search."
+  },
+  "dashboard": {
+    "title": "Farmer Dashboard",
+    "profile": "Profile Information",
+    "name": "Name",
+    "email": "Email",
+    "history": "Analysis History",
+    "noHistory": "No history found. Start by detecting a disease!",
+    "analyzedOn": "Analyzed on",
+    "records": "Records",
+    "learnMore": "Learn More",
+    "diseaseDetails": "Disease Details",
+    "close": "Close",
+    "stats": {
+      "totalScans": "Total Scans",
+      "diseasesDetected": "Diseases Detected",
+      "fertilizersSuggested": "Fertilizers Suggested",
+      "todayWeather": "Today's Weather"
+    },
+    "chart": {
+      "title": "Weekly Activity",
+      "scans": "Scans",
+      "diseases": "Diseases"
+    },
+    "generateReport": "Generate Report",
+    "report": {
+      "title": "Smart Agro Health Report",
+      "subtitle": "Analysis of crop health history and AI insights.",
+      "userProfile": "User Profile",
+      "stats": "Activity Summary",
+      "history": "Analysis History",
+      "suggestions": "AI Insights & Suggestions",
+      "date": "Date",
+      "disease": "Disease",
+      "fertilizer": "Fertilizer",
+      "generatedOn": "Generated on"
+    }
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "registerTitle": "Create Account",
+    "name": "Full Name",
+    "email": "Email Address",
+    "password": "Password",
+    "loginBtn": "Sign In",
+    "registerBtn": "Sign Up",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?"
+  },
+  "market": {
+    "title": "Agricultural Marketplace",
+    "subtitle": "Real-time crop prices and market trends.",
+    "crop": "Crop",
+    "price": "Price",
+    "trend": "Trend",
+    "location": "Location",
+    "updated": "Last Updated",
+    "searchPlaceholder": "Search crops (e.g. Wheat, Tur, Soybean)...",
+    "allLocations": "All Locations",
+    "noResults": "No matching crops found in the market.",
+    "loading": "Fetching latest market prices...",
+    "error": "Error loading market data. Please try again later.",
+    "perQuintal": "per quintal",
+    "aiInsights": "Smart Agro AI Insights",
+    "aiSummary": "AI Market Summary",
+    "aiRecommendations": "AI Recommendations",
+    "aiTopMovers": "Top Market Movers",
+    "aiAskPlaceholder": "Ask Smart Agro AI about market trends...",
+    "aiLoading": "Generating AI insights...",
+    "aiAction": "Action",
+    "aiReason": "Reason"
+  },
+  "footer": {
+    "about": "Smart Agro is an AI-powered platform dedicated to empowering farmers with cutting-edge technology for disease detection, fertilizer recommendations, and market insights.",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "address": "123 Agri-Tech Lane, Green Valley, India",
+    "phone": "+91 98765 43210",
+    "email": "support@smartagro.com",
+    "rights": "All rights reserved.",
+    "social": "Follow Us"
+  },
+  "analysisHistory": {
+    "title": "Analysis History",
+    "subtitle": "Track your crop health journey and AI scan results.",
+    "viewAll": "View History",
+    "delete": "Delete",
+    "deleteConfirm": "Are you sure you want to delete this record?"
+  },
+  "farmingCalendar": {
+    "title": "Farming Calendar",
+    "sowingTime": "Best Sowing Time",
+    "fertilizerSchedule": "Fertilizer Schedule",
+    "month": "Month",
+    "crop": "Crop",
+    "task": "Task",
+    "noSowing": "No major sowing tasks for this month.",
+    "noFertilizer": "No major fertilizer tasks for this month."
+  }
+}
