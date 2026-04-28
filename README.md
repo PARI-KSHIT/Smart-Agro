@@ -1,49 +1,60 @@
-<<<<<<< HEAD
-# Agro Project
+🌾 Smart Agro: Disease & Fertilizer Recommendation System
+Smart Agro is a full-stack AI-driven platform designed to help farmers identify crop diseases and get precise fertilizer recommendations. By leveraging the Gemini API and the MERN stack, the system provides real-time analysis and multi-language support to bridge the gap between technology and traditional farming.
 
-This project is organized into separate frontend and backend folders.
+🚀 Key Features
+AI Disease Detection: Upload images of infected crops to receive instant diagnosis via Gemini AI.
 
-## Structure
+Smart Fertilizer Recommendations: Get tailored suggestions based on crop type and soil conditions.
 
-- `frontend/`: React.js application powered by Vite.
-- `backend/`: Node.js and Express.js server.
+Multi-language Support: Accessible in English, Hindi, and Marathi to support local farmers.
 
-## Getting Started
+Farming Calendar & Weather: Integrated tools to help plan agricultural activities based on local weather.
 
-### Prerequisites
+Market Insights: Real-time information on market trends and crop prices.
 
-- [Node.js](https://nodejs.org/) installed.
+Admin Dashboard: Comprehensive management system for users and agricultural data.
 
-### Installation
+🛠️ Tech Stack
+Frontend: React.js, TypeScript, Vite, Tailwind CSS
 
-To install dependencies for both frontend and backend:
+Backend: Node.js, Express.js
 
-```bash
-npm run install:all
-```
+Database: MongoDB
 
-### Running the Project
+AI Engine: Google Gemini API
 
-You need to run the backend and frontend in separate terminals.
+Other Tools: i18next (Internationalization), Axios, Lucide React (Icons)
 
-#### Start Backend
+📦 Installation & Setup
+Clone the repository:
 
-```bash
-npm run dev:backend
-```
-The server will run on [http://localhost:3000](http://localhost:3000).
+Bash
+git clone https://github.com/PARI-KSHIT/Smart-Agro.git
+Install Backend Dependencies:
 
-#### Start Frontend
+Bash
+cd backend
+npm install
+Install Frontend Dependencies:
 
-```bash
-npm run dev:frontend
-```
-The application will be available at the URL provided by Vite (usually [http://localhost:5173](http://localhost:5173)).
+Bash
+cd ../frontend
+npm install
+Environment Variables:
+Create a .env file in the backend folder and add:
 
-## Separated Folders
+Code snippet
+MONGO_URI=your_mongodb_connection_string
+GEMINI_API_KEY=your_google_gemini_key
+PORT=5000
+Run the Application:
 
-- **Frontend**: Contains all UI components, pages, and styles.
-- **Backend**: Contains API routes, database models, and server logic.
-=======
-# Smart-Agro
->>>>>>> db661ef6370b10c90908afbd222a8ea53c7e0d32
+Backend: npm run dev (inside /backend)
+
+Frontend: npm run dev (inside /frontend)
+
+📸 Screenshots
+(Tip: Add a screenshot of your Dashboard or AI Assistant here later to make it visually appealing!)
+
+📝 License
+This project is for educational purposes as part of my MCA curriculum.
